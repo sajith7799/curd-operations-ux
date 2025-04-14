@@ -1,0 +1,32 @@
+{
+  "employee": [
+    {
+      "id": "3",
+      "name": "shaik shkeera",
+      "doj": "2025-04-09T10:21:47.664Z",
+      "role": "Lead",
+      "salary": "3"
+    },
+    {
+      "id": "4",
+      "name": "shaik shabeena",
+      "doj": "2025-04-10T05:18:25.771Z",
+      "role": "operator",
+      "salary": "4"
+    },
+    {
+      "id": "4",
+      "name": "shaik sajith",
+      "doj": "2025-04-10T06:17:42.649Z",
+      "role": "Lead",
+      "salary": "4"
+    },
+    {
+      "id": "5",
+      "name": "shaik raju",
+      "doj": "2025-04-11T07:12:36.336Z",
+      "role": "Lead",
+      "salary": "5"
+    }
+  ]
+}
